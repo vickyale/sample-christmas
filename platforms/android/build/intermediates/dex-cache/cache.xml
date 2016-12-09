@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_1dd96f028f995b5bb06b660b2963b03c2e40c6a6.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\samplechristmas\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_0562f4cf0a284a17bf27339c60258e998310ec8d.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9eec987a0056adc79d607b32e7e1c41997a434a7">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_2186e32ab6561ad7aa777acc46162e104d237ad3.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_9726bbd63d81d406e2fc7d45bcf2657082222d3e.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_b3f9ba811b7bd6fda795b51998ae22993c731120.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vicky\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_826a36e0eb82851c2435048ccdc57aab5acaf156.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_808a9d405b4ec3bc89c13473a47e617499031d7b.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_f48f0f566ebf0a44b6fc123ed7c3be05fa317e41.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\samplechristmas\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="791326bdf152dc35a200aea2938d5e5f2af0c81a">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\samplechristmas-runtime-unspecified_7343c1b5ac7b46a19d5acb47612130167141a8b0.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_decb12d2ea8127445b24dcdda4763907320561bd.jar" />
+    </item>
+    <item
+        jar="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_e0a4415713db99e406bfef582770fafde01e7c92.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\PROGRAMMING\\NATIVESCRIPT\\sample-christmas\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "D:\\PROGRAMMING\\NATIVESCRIPT\\sample-christmas\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\NATIVESCRIPT\\sample-christmas\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\PROGRAMMING\\NATIVESCRIPT\\sample-christmas\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\NATIVESCRIPT\\sample-christmas\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "D:\\PROGRAMMING\\NATIVESCRIPT\\sample-christmas\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    }
+]

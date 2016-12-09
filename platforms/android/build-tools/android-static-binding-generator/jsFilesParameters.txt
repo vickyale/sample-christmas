@@ -1,0 +1,2 @@
+D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\src\main\assets\app\app.js
+D:\PROGRAMMING\NATIVESCRIPT\sample-christmas\platforms\android\src\main\assets\app\shared\index.js
